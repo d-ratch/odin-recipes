@@ -4,6 +4,7 @@
     font-size: 32px;
     font-weight: bold;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -11,4 +12,12 @@
     background-color: cyan;
     color: white;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.picCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
