@@ -1,0 +1,14 @@
+.header {
+    background-color: blueviolet;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.default {
+    background-color: cyan;
+    color: white;
+    text-align: center;
+}
