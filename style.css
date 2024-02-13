@@ -5,6 +5,9 @@
     font-weight: bold;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 25px;
 }
 
 
@@ -13,6 +16,10 @@
     color: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    padding: 10px;
 }
 
 .picCenter {
@@ -21,3 +28,11 @@
     margin-right: auto;
     width: 50%;
 }
+
+.div {
+    text-align: center;
+}
+
+/* * {
+    outline: 2px solid red;
+} */
